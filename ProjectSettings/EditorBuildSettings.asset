@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_PhysicsGunAssets/Scenes/PhysicsGunSampleScene.unity
+    path: Assets/Scripts/_PhysicsGunAssets/Scenes/PhysicsGunSampleScene.unity
     guid: 211d77c8e9bc09b44a2898d2bb9d90f9
   m_configObjects: {}
